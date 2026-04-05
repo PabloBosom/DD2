@@ -1,0 +1,327 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera/16.0
+Eclk_div
+Z0 w1775152292
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dD:/UNI/3/dd2/teclado/modelsim
+Z4 8D:/UNI/3/dd2/teclado/hdl/clk_div.vhd
+Z5 FD:/UNI/3/dd2/teclado/hdl/clk_div.vhd
+l0
+L4
+V_JIfjMD3f0o:[9FmBDW@W1
+!s100 ;T:RJT;S8VdWX]C@YV;jW0
+Z6 OV;C;10.4d;61
+32
+Z7 !s110 1775381800
+!i10b 1
+Z8 !s108 1775381800.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/dd2/teclado/hdl/clk_div.vhd|
+Z10 !s107 D:/UNI/3/dd2/teclado/hdl/clk_div.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1
+Artl
+R1
+R2
+Z13 DEx4 work 7 clk_div 0 22 _JIfjMD3f0o:[9FmBDW@W1
+l15
+L12
+VTcoY]7ES38JK0Rhio7>UF0
+!s100 TB<dM^Ea?an]bkFBEZNkE0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eestimulos
+Z14 w1775144166
+Z15 DPx4 work 17 pack_test_teclado 0 22 DT5dZg`;h7bfb1gb3i3_X3
+Z16 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z17 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R1
+R2
+R3
+Z18 8D:/UNI/3/dd2/teclado/modelsim/estimulos.vhd
+Z19 FD:/UNI/3/dd2/teclado/modelsim/estimulos.vhd
+l0
+L15
+V:GjnWFTzaBk`5MTjoGC^k0
+!s100 TJll>0`4^:<ZdNj]cfa[T3
+R6
+32
+R7
+!i10b 1
+R8
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/dd2/teclado/modelsim/estimulos.vhd|
+Z21 !s107 D:/UNI/3/dd2/teclado/modelsim/estimulos.vhd|
+!i113 1
+R11
+R12
+Atest
+R15
+R16
+R17
+R1
+R2
+DEx4 work 9 estimulos 0 22 :GjnWFTzaBk`5MTjoGC^k0
+l27
+L25
+V9IG4dB6ehhdJD@j_SK1eo1
+!s100 =W^DH[^3YASVPgK<VkOMZ1
+R6
+32
+R7
+!i10b 1
+R8
+R20
+R21
+!i113 1
+R11
+R12
+Einterfaz_teclado
+Z22 w1775381368
+R1
+R2
+R3
+Z23 8D:/UNI/3/dd2/teclado/modelsim/interfaz_teclado.vhd
+Z24 FD:/UNI/3/dd2/teclado/modelsim/interfaz_teclado.vhd
+l0
+L5
+VOQ48_YfDS]9EOn[:?A47n1
+!s100 jPOF^YODO<hgQ__2>Uj]10
+R6
+32
+R7
+!i10b 1
+R8
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/dd2/teclado/modelsim/interfaz_teclado.vhd|
+Z26 !s107 D:/UNI/3/dd2/teclado/modelsim/interfaz_teclado.vhd|
+!i113 1
+R11
+R12
+Aestructural
+Z27 DEx4 work 7 teclado 0 22 8]@^ghc]Y522TadLeHCEG0
+Z28 DEx4 work 7 rebotes 0 22 8oKkKS<I89oTaF=UoiXFo3
+R13
+R1
+R2
+DEx4 work 16 interfaz_teclado 0 22 OQ48_YfDS]9EOn[:?A47n1
+l30
+L26
+VH<Y95`zMC4iQ2G=TAF;lL2
+!s100 M_>8jHL3iL>PAEB<YEjHb0
+R6
+32
+R7
+!i10b 1
+R8
+R25
+R26
+!i113 1
+R11
+R12
+Emonitor
+R14
+R15
+R16
+R17
+R1
+R2
+R3
+Z29 8D:/UNI/3/dd2/teclado/modelsim/monitor.vhd
+Z30 FD:/UNI/3/dd2/teclado/modelsim/monitor.vhd
+l0
+L18
+VDE<R40DNa5U;IE^`62iD03
+!s100 Lb8iHZUR:f?CcV:gzRQFg1
+R6
+32
+R7
+!i10b 1
+R8
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/dd2/teclado/modelsim/monitor.vhd|
+Z32 !s107 D:/UNI/3/dd2/teclado/modelsim/monitor.vhd|
+!i113 1
+R11
+R12
+Atest
+R15
+R16
+R17
+R1
+R2
+DEx4 work 7 monitor 0 22 DE<R40DNa5U;IE^`62iD03
+l31
+L29
+VZC<N:K67`Ck[K;8?CEgSX3
+!s100 Om5oDN]RJBK>TE75oZ7JO2
+R6
+32
+R7
+!i10b 1
+R8
+R31
+R32
+!i113 1
+R11
+R12
+Ppack_test_teclado
+R16
+R17
+R1
+R2
+R14
+R3
+Z33 8D:/UNI/3/dd2/teclado/modelsim/pack_test_teclado.vhd
+Z34 FD:/UNI/3/dd2/teclado/modelsim/pack_test_teclado.vhd
+l0
+L27
+VDT5dZg`;h7bfb1gb3i3_X3
+!s100 n:88o=jGfd;Zzl3;AN`7Z2
+R6
+32
+b1
+R7
+!i10b 1
+R8
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/dd2/teclado/modelsim/pack_test_teclado.vhd|
+Z36 !s107 D:/UNI/3/dd2/teclado/modelsim/pack_test_teclado.vhd|
+!i113 1
+R11
+R12
+Bbody
+R15
+R16
+R17
+R1
+R2
+l0
+L53
+VBmi3>JQRHmY:h2i3j_3hg3
+!s100 mfi2@MCGR?kUSQdaAO`KE3
+R6
+32
+R7
+!i10b 1
+R8
+R35
+R36
+!i113 1
+R11
+R12
+Erebotes
+Z37 w1775381120
+R1
+R2
+R3
+Z38 8D:/UNI/3/dd2/teclado/hdl/rebotes.vhd
+Z39 FD:/UNI/3/dd2/teclado/hdl/rebotes.vhd
+l0
+L4
+V8oKkKS<I89oTaF=UoiXFo3
+!s100 d>GbH3RcQzL=BUDg^e6Yl0
+R6
+32
+R7
+!i10b 1
+R8
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/dd2/teclado/hdl/rebotes.vhd|
+Z41 !s107 D:/UNI/3/dd2/teclado/hdl/rebotes.vhd|
+!i113 1
+R11
+R12
+Artl
+R1
+R2
+R28
+l23
+L13
+VhE[n<GZndhNbDjPfcH:703
+!s100 LI`Gk8LiK@fboDeCzGK=;0
+R6
+32
+R7
+!i10b 1
+R8
+R40
+R41
+!i113 1
+R11
+R12
+Eteclado
+Z42 w1775381666
+R1
+R2
+R3
+Z43 8D:/UNI/3/dd2/teclado/hdl/teclado.vhd
+Z44 FD:/UNI/3/dd2/teclado/hdl/teclado.vhd
+l0
+L4
+V8]@^ghc]Y522TadLeHCEG0
+!s100 8CfKNBzLHPBMM;HXF@0CE2
+R6
+32
+Z45 !s110 1775381799
+!i10b 1
+Z46 !s108 1775381799.000000
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/dd2/teclado/hdl/teclado.vhd|
+Z48 !s107 D:/UNI/3/dd2/teclado/hdl/teclado.vhd|
+!i113 1
+R11
+R12
+Artl
+R1
+R2
+R27
+l36
+L26
+VbNMP]V_8ACGKS=C@Q5Sf@1
+!s100 T>gnKzma=Jkg?CZ]=bEOi0
+R6
+32
+R45
+!i10b 1
+R46
+R47
+R48
+!i113 1
+R11
+R12
+Etest_ctrl_tec
+R14
+R15
+R16
+R17
+R1
+R2
+R3
+8D:/UNI/3/dd2/teclado/modelsim/test_ctrl_tec.vhd
+FD:/UNI/3/dd2/teclado/modelsim/test_ctrl_tec.vhd
+l0
+L48
+V?i8<MjSZogjZnN4?Lij`Y3
+!s100 3H^W8oQj`jQ8^d>2;09A;3
+R6
+32
+!s110 1775381801
+!i10b 1
+!s108 1775381801.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/dd2/teclado/modelsim/test_ctrl_tec.vhd|
+!s107 D:/UNI/3/dd2/teclado/modelsim/test_ctrl_tec.vhd|
+!i113 1
+R11
+R12
