@@ -1,10 +1,10 @@
 library ieee;
 use ieee.std_logic_1164.all;
 
-entity teclado is
+entity teclado_sim is
 	port(
 	      clk  : in std_logic;
-	      nRST : in std_logic;
+	      nRst : in std_logic;
 	      tic  : in std_logic; -- Pulso de 5 ms para los rebotes
 	      
 	      col0 : in std_logic;
@@ -23,7 +23,7 @@ entity teclado is
 	);
 end entity;
 
-architecture rtl of teclado is 	
+architecture rtl of teclado_sim is 	
 	type estado_t is (STOP, ESCANEO, PULSADO);
 	signal estado : estado_t;
 
@@ -35,9 +35,9 @@ architecture rtl of teclado is
 	signal pulsacion  : std_logic;
 begin
 	
-	process(clk, nRST)
+	process(clk, nRst)
 	begin
-	   if nRST = '1' then
+	   if nRst = '1' then
 		estado      <= STOP;
 		fila_sel    <= "00";
 		tecla_reg   <= (others => '0');
@@ -143,5 +143,3 @@ begin
 	             else '0';
 
 end rtl;
-
-	
