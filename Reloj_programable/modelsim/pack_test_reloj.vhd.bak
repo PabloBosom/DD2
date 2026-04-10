@@ -200,16 +200,8 @@ wait until clk'event and clk = '1' and
                                       constant valor:       in  std_logic_vector(15 downto 0)) is
 
   begin
-     while horas /= valor(15 downto 8) or AM_PM /= periodo loop
-	tecleo(pulso_largo, cmd_tecla, clk, X"C");
-       end loop;
-	
-       tecleo(ena_cmd, cmd_tecla, clk, X"B"); --Ãpara cambiar el campo
 
-   while minutos /= valor(7 downto 0) loop
-     tecleo(pulso_largo, cmd_tecla, clk, X"C");
-   end loop;
-
+	-- CODIGO A COMPLETAR POR EL ESTUDIANTE
 
   end procedure; 
 

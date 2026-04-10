@@ -65,7 +65,7 @@ begin
     end if;
   end process;
   
-  fdc_AM_PM <= ena or inc_campo when horas = X"11" and modo = '0' else
+  fdc_AM_PM <= ena or inc_campo when horas = X"12" and modo = '0' else
                '0';
 
   -- Paso de formato 24 a 12

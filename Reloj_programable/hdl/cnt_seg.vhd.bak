@@ -15,7 +15,7 @@ end entity;
 architecture rtl of cnt_seg is
   signal ena_decenas_segundos:   std_logic;
 
-begin 
+begin
   process(clk, nRst)    -- Unidades de segundos
   begin
     if nRst = '0' then

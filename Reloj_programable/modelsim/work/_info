@@ -9,7 +9,7 @@ z2
 cModel Technology
 dC:/altera/16.0
 Ecnt_horas
-Z0 w1775743771
+Z0 w1775821081
 Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
 Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
 Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
@@ -23,10 +23,10 @@ VgZ09N_BXgFB5beZClimVT0
 !s100 aI8e><ABL=BzoeDnk=bS92
 Z8 OV;C;10.4d;61
 32
-Z9 !s110 1775745915
+Z9 !s110 1775821420
 !i10b 1
-Z10 !s108 1775745915.000000
-Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Universidad\DD2_2026\Reloj_programable\hdl\cnt_horas.vhd|
+Z10 !s108 1775821420.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Universidad\DD2_2026\Reloj_programable\hdl\cnt_horas.vhd|
 Z12 !s107 C:\Universidad\DD2_2026\Reloj_programable\hdl\cnt_horas.vhd|
 !i113 1
 Z13 o-work work -2002 -explicit
@@ -39,8 +39,8 @@ R4
 Z15 DEx4 work 9 cnt_horas 0 22 gZ09N_BXgFB5beZClimVT0
 l32
 L19
-V_eEEM@LHm6O_T=FJa_XFZ3
-!s100 aPkB@:;dh3d8lekb9^NYA1
+Va`4=6<A<GNlW7lN[m1R=X0
+!s100 3il2jh5TFL_k]3ekTb;MT1
 R8
 32
 R9
@@ -52,25 +52,25 @@ R12
 R13
 R14
 Ecnt_min
-R0
+Z16 w1775821676
 R1
 R2
 R3
 R4
 R5
-Z16 8C:\Universidad\DD2_2026\Reloj_programable\hdl\cnt_min.vhd
-Z17 FC:\Universidad\DD2_2026\Reloj_programable\hdl\cnt_min.vhd
+Z17 8C:/Universidad/DD2_2026/Reloj_programable/hdl/cnt_min.vhd
+Z18 FC:/Universidad/DD2_2026/Reloj_programable/hdl/cnt_min.vhd
 l0
 L5
 V]zXWi[8NkAgh4G5^7PYQ@3
 !s100 aHL4EU5hg<zV>=noLWdU>2
 R8
 32
-R9
+Z19 !s110 1775821694
 !i10b 1
-R10
-Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Universidad\DD2_2026\Reloj_programable\hdl\cnt_min.vhd|
-Z19 !s107 C:\Universidad\DD2_2026\Reloj_programable\hdl\cnt_min.vhd|
+Z20 !s108 1775821694.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Universidad/DD2_2026/Reloj_programable/hdl/cnt_min.vhd|
+Z22 !s107 C:/Universidad/DD2_2026/Reloj_programable/hdl/cnt_min.vhd|
 !i113 1
 R13
 R14
@@ -79,87 +79,87 @@ R1
 R2
 R3
 R4
-Z20 DEx4 work 7 cnt_min 0 22 ]zXWi[8NkAgh4G5^7PYQ@3
+Z23 DEx4 work 7 cnt_min 0 22 ]zXWi[8NkAgh4G5^7PYQ@3
 l20
 L17
-Veh08dW_o@gST^O7G230W>3
-!s100 iXzQUhjVg=3G>][gEFTHF1
+V4JEOaMU5D1A;Q^;E^UTI00
+!s100 P@RDonSXeB;?>NXWbVLdg3
 R8
 32
-R9
-!i10b 1
-R10
-R18
 R19
+!i10b 1
+R20
+R21
+R22
 !i113 1
 R13
 R14
 Ecnt_reloj
-R0
+Z24 w1775816820
 R1
 R2
 R3
 R4
 R5
-Z21 8C:\Universidad\DD2_2026\Reloj_programable\hdl\cnt_reloj.vhd
-Z22 FC:\Universidad\DD2_2026\Reloj_programable\hdl\cnt_reloj.vhd
+Z25 8C:\Universidad\DD2_2026\Reloj_programable\hdl\cnt_reloj.vhd
+Z26 FC:\Universidad\DD2_2026\Reloj_programable\hdl\cnt_reloj.vhd
 l0
 L5
 VVb1Vje8ILh9SoE0a[V;iK2
 !s100 76RXSk:YS<>>Yfd3`Pz1J3
 R8
 32
-R9
+Z27 !s110 1775820441
 !i10b 1
-R10
-Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Universidad\DD2_2026\Reloj_programable\hdl\cnt_reloj.vhd|
-Z24 !s107 C:\Universidad\DD2_2026\Reloj_programable\hdl\cnt_reloj.vhd|
+Z28 !s108 1775820441.000000
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Universidad\DD2_2026\Reloj_programable\hdl\cnt_reloj.vhd|
+Z30 !s107 C:\Universidad\DD2_2026\Reloj_programable\hdl\cnt_reloj.vhd|
 !i113 1
 R13
 R14
 Aestructural
 R15
-R20
-Z25 DEx4 work 7 cnt_seg 0 22 @BOMCPTUeZ`:4gHRK@Bn33
+R23
+Z31 DEx4 work 7 cnt_seg 0 22 @BOMCPTUeZ`:4gHRK@Bn33
 R1
 R2
 R3
 R4
-Z26 DEx4 work 9 cnt_reloj 0 22 Vb1Vje8ILh9SoE0a[V;iK2
+Z32 DEx4 work 9 cnt_reloj 0 22 Vb1Vje8ILh9SoE0a[V;iK2
 l26
 L22
-V5Q4]:SLb`k=8`kGPUYV?j1
-!s100 H^k<H=L8?bkmUhV0gbZNK3
+Va7FfRc`fbg>n1L5`_6>2C3
+!s100 m2JX]PDP7ePdY=@O]UUGP3
 R8
 32
-R9
+R27
 !i10b 1
-R10
-R23
-R24
+R28
+R29
+R30
 !i113 1
 R13
 R14
 Ecnt_seg
-R0
+Z33 w1775820508
 R1
 R2
 R3
 R4
 R5
-Z27 8C:\Universidad\DD2_2026\Reloj_programable\hdl\cnt_seg.vhd
-Z28 FC:\Universidad\DD2_2026\Reloj_programable\hdl\cnt_seg.vhd
+Z34 8C:\Universidad\DD2_2026\Reloj_programable\hdl\cnt_seg.vhd
+Z35 FC:\Universidad\DD2_2026\Reloj_programable\hdl\cnt_seg.vhd
 l0
 L5
 V@BOMCPTUeZ`:4gHRK@Bn33
 !s100 <H<dG<kLmzAY7J3?Di<9S0
 R8
 32
-R9
+Z36 !s110 1775820656
 !i10b 1
-R10
-Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Universidad\DD2_2026\Reloj_programable\hdl\cnt_seg.vhd|
-Z30 !s107 C:\Universidad\DD2_2026\Reloj_programable\hdl\cnt_seg.vhd|
+Z37 !s108 1775820656.000000
+Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Universidad\DD2_2026\Reloj_programable\hdl\cnt_seg.vhd|
+Z39 !s107 C:\Universidad\DD2_2026\Reloj_programable\hdl\cnt_seg.vhd|
 !i113 1
 R13
 R14
@@ -168,41 +168,41 @@ R1
 R2
 R3
 R4
-R25
+R31
 l18
 L15
 VD1?CbiNnSZ`]D0J]0CdD^0
 !s100 Zk>A@O@^mYb_KDeY1d@FC2
 R8
 32
-R9
+R36
 !i10b 1
-R10
-R29
-R30
+R37
+R38
+R39
 !i113 1
 R13
 R14
 Ectrl_reloj
-R0
+Z40 w1775743771
 R1
 R2
 R3
 R4
 R5
-Z31 8C:\Universidad\DD2_2026\Reloj_programable\hdl\ctrl_reloj.vhd
-Z32 FC:\Universidad\DD2_2026\Reloj_programable\hdl\ctrl_reloj.vhd
+Z41 8C:\Universidad\DD2_2026\Reloj_programable\hdl\ctrl_reloj.vhd
+Z42 FC:\Universidad\DD2_2026\Reloj_programable\hdl\ctrl_reloj.vhd
 l0
 L5
 V9SQ=z_S?LCJ==A25hh:oF2
 !s100 94:m`kOJoCWd18`UD@h;S1
 R8
 32
-R9
+R27
 !i10b 1
-R10
-Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Universidad\DD2_2026\Reloj_programable\hdl\ctrl_reloj.vhd|
-Z34 !s107 C:\Universidad\DD2_2026\Reloj_programable\hdl\ctrl_reloj.vhd|
+R28
+Z43 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Universidad\DD2_2026\Reloj_programable\hdl\ctrl_reloj.vhd|
+Z44 !s107 C:\Universidad\DD2_2026\Reloj_programable\hdl\ctrl_reloj.vhd|
 !i113 1
 R13
 R14
@@ -211,18 +211,18 @@ R1
 R2
 R3
 R4
-Z35 DEx4 work 10 ctrl_reloj 0 22 9SQ=z_S?LCJ==A25hh:oF2
+Z45 DEx4 work 10 ctrl_reloj 0 22 9SQ=z_S?LCJ==A25hh:oF2
 l43
 L23
 V;2<K;>`dAA_8LWRJh[R@z1
 !s100 5DVUjigBo1mKjcYbk``zh3
 R8
 32
-R9
+R27
 !i10b 1
-R10
-R33
-R34
+R28
+R43
+R44
 !i113 1
 R13
 R14
@@ -231,10 +231,10 @@ R1
 R2
 R3
 R4
-Z36 w1775745886
+Z46 w1775748496
 R5
-Z37 8C:/Universidad/DD2_2026/Reloj_programable/modelsim/pack_test_reloj.vhd
-Z38 FC:/Universidad/DD2_2026/Reloj_programable/modelsim/pack_test_reloj.vhd
+Z47 8C:\Universidad\DD2_2026\Reloj_programable\modelsim\pack_test_reloj.vhd
+Z48 FC:\Universidad\DD2_2026\Reloj_programable\modelsim\pack_test_reloj.vhd
 l0
 L5
 V<=dn]O0z8aKzSYk]glN?U1
@@ -242,198 +242,198 @@ V<=dn]O0z8aKzSYk]glN?U1
 R8
 32
 b1
-R9
+R27
 !i10b 1
-R10
-Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Universidad/DD2_2026/Reloj_programable/modelsim/pack_test_reloj.vhd|
-Z40 !s107 C:/Universidad/DD2_2026/Reloj_programable/modelsim/pack_test_reloj.vhd|
+R28
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Universidad\DD2_2026\Reloj_programable\modelsim\pack_test_reloj.vhd|
+Z50 !s107 C:\Universidad\DD2_2026\Reloj_programable\modelsim\pack_test_reloj.vhd|
 !i113 1
 R13
 R14
 Bbody
-Z41 DPx4 work 15 pack_test_reloj 0 22 <=dn]O0z8aKzSYk]glN?U1
+Z51 DPx4 work 15 pack_test_reloj 0 22 <=dn]O0z8aKzSYk]glN?U1
 R1
 R2
 R3
 R4
 l0
 L68
-Vh:FRdlCH5eN=oOK5O]UWi2
-!s100 M<CQ9=OQFQBha:Ln0Fi_z0
+VEPBVo1fi1HlG:TBS8>1bC0
+!s100 K6O8WOI>Ve]dcUU?86Em13
 R8
 32
-R9
+R27
 !i10b 1
-R10
-R39
-R40
+R28
+R49
+R50
 !i113 1
 R13
 R14
 Ereloj
-R0
+R40
 R1
 R2
 R3
 R4
 R5
-Z42 8C:\Universidad\DD2_2026\Reloj_programable\hdl\reloj.vhd
-Z43 FC:\Universidad\DD2_2026\Reloj_programable\hdl\reloj.vhd
+Z52 8C:\Universidad\DD2_2026\Reloj_programable\hdl\reloj.vhd
+Z53 FC:\Universidad\DD2_2026\Reloj_programable\hdl\reloj.vhd
 l0
 L5
 V;FUGaHmTd7B2PmQIP`S[m0
 !s100 ;3c`LK7ZkEUQ;S[S62FB>2
 R8
 32
-R9
+R27
 !i10b 1
-R10
-Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Universidad\DD2_2026\Reloj_programable\hdl\reloj.vhd|
-Z45 !s107 C:\Universidad\DD2_2026\Reloj_programable\hdl\reloj.vhd|
+R28
+Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Universidad\DD2_2026\Reloj_programable\hdl\reloj.vhd|
+Z55 !s107 C:\Universidad\DD2_2026\Reloj_programable\hdl\reloj.vhd|
 !i113 1
 R13
 R14
 Aestructural
-R26
-R35
+R32
+R45
 R1
 R2
 R3
 R4
-Z46 DEx4 work 5 reloj 0 22 ;FUGaHmTd7B2PmQIP`S[m0
+Z56 DEx4 work 5 reloj 0 22 ;FUGaHmTd7B2PmQIP`S[m0
 l29
 L22
 V^Ph6TL>BKB]^:jeMaTR`Q0
 !s100 =2^z:`D`1<kFjL?OzX_RZ2
 R8
 32
-R9
+R27
 !i10b 1
-R10
-R44
-R45
+R28
+R54
+R55
 !i113 1
 R13
 R14
 Etest_estimulos_reloj
-R36
-R41
+Z57 w1775815640
+R51
 R1
 R2
 R3
 R4
 R5
-Z47 8C:/Universidad/DD2_2026/Reloj_programable/modelsim/test_estimulos_reloj.vhd
-Z48 FC:/Universidad/DD2_2026/Reloj_programable/modelsim/test_estimulos_reloj.vhd
+Z58 8C:\Universidad\DD2_2026\Reloj_programable\modelsim\test_estimulos_reloj.vhd
+Z59 FC:\Universidad\DD2_2026\Reloj_programable\modelsim\test_estimulos_reloj.vhd
 l0
 L7
-V?nMN2bb2DXRNi0Bl]3o7h0
-!s100 _^@5<Pj14_AK1YO;eHzdS3
+VEnIOi`g0e_GjiP8WN5P560
+!s100 go^kiC01P4M;JH<AP4>cm2
 R8
 32
-R9
+R27
 !i10b 1
-R10
-Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Universidad/DD2_2026/Reloj_programable/modelsim/test_estimulos_reloj.vhd|
-Z50 !s107 C:/Universidad/DD2_2026/Reloj_programable/modelsim/test_estimulos_reloj.vhd|
+R28
+Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Universidad\DD2_2026\Reloj_programable\modelsim\test_estimulos_reloj.vhd|
+Z61 !s107 C:\Universidad\DD2_2026\Reloj_programable\modelsim\test_estimulos_reloj.vhd|
 !i113 1
 R13
 R14
 Atest
-R41
+R51
 R1
 R2
 R3
 R4
-Z51 DEx4 work 20 test_estimulos_reloj 0 22 ?nMN2bb2DXRNi0Bl]3o7h0
+Z62 DEx4 work 20 test_estimulos_reloj 0 22 EnIOi`g0e_GjiP8WN5P560
 l26
 L24
-V^^FiFZYF?2JKbn>1cUa@E0
-!s100 5=:8>3OKemI5X<0f[XTAA2
+Vai2d1c]ClObCfndB[c2_30
+!s100 3Y^<>^[G_6`T@bZ0e[Q@z3
 R8
 32
-R9
+R27
 !i10b 1
-R10
-R49
-R50
+R28
+R60
+R61
 !i113 1
 R13
 R14
 Etest_monitor_reloj
-R36
-R41
+Z63 w1775818992
+R51
 R1
 R2
 R3
 R4
 R5
-Z52 8C:/Universidad/DD2_2026/Reloj_programable/modelsim/test_monitor_reloj.vhd
-Z53 FC:/Universidad/DD2_2026/Reloj_programable/modelsim/test_monitor_reloj.vhd
+Z64 8C:\Universidad\DD2_2026\Reloj_programable\modelsim\test_monitor_reloj.vhd
+Z65 FC:\Universidad\DD2_2026\Reloj_programable\modelsim\test_monitor_reloj.vhd
 l0
 L7
 VT77AY2;KKe[nMmj3^hD@43
 !s100 O^]AL_gmU>gRKKK:>5FiN2
 R8
 32
-R9
+R27
 !i10b 1
-R10
-Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Universidad/DD2_2026/Reloj_programable/modelsim/test_monitor_reloj.vhd|
-Z55 !s107 C:/Universidad/DD2_2026/Reloj_programable/modelsim/test_monitor_reloj.vhd|
+R28
+Z66 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Universidad\DD2_2026\Reloj_programable\modelsim\test_monitor_reloj.vhd|
+Z67 !s107 C:\Universidad\DD2_2026\Reloj_programable\modelsim\test_monitor_reloj.vhd|
 !i113 1
 R13
 R14
 Atest
-R41
+R51
 R1
 R2
 R3
 R4
-Z56 DEx4 work 18 test_monitor_reloj 0 22 T77AY2;KKe[nMmj3^hD@43
+Z68 DEx4 work 18 test_monitor_reloj 0 22 T77AY2;KKe[nMmj3^hD@43
 l26
 L24
-VbDDd:V^I=ChQDLF<z1=<o2
-!s100 I[4kmEZla^Fz2db<H3cFJ0
+Vj@T@o3T][AO@Y[V1kEIGA2
+!s100 ;1:jbRiHL1IHHl63FKRaT1
 R8
 32
-R9
+R27
 !i10b 1
-R10
-R54
-R55
+R28
+R66
+R67
 !i113 1
 R13
 R14
 Etest_reloj
-R36
-R41
+Z69 w1775745886
+R51
 R1
 R2
 R3
 R4
 R5
-Z57 8C:/Universidad/DD2_2026/Reloj_programable/modelsim/test_reloj.vhd
-Z58 FC:/Universidad/DD2_2026/Reloj_programable/modelsim/test_reloj.vhd
+Z70 8C:\Universidad\DD2_2026\Reloj_programable\modelsim\test_reloj.vhd
+Z71 FC:\Universidad\DD2_2026\Reloj_programable\modelsim\test_reloj.vhd
 l0
 L7
 VG^nWI0iVzIm;]Td8]GXcf1
 !s100 Mnj]8jAL<FF]:Ci9`7iWD1
 R8
 32
-R9
+R27
 !i10b 1
-R10
-Z59 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Universidad/DD2_2026/Reloj_programable/modelsim/test_reloj.vhd|
-Z60 !s107 C:/Universidad/DD2_2026/Reloj_programable/modelsim/test_reloj.vhd|
+R28
+Z72 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Universidad\DD2_2026\Reloj_programable\modelsim\test_reloj.vhd|
+Z73 !s107 C:\Universidad\DD2_2026\Reloj_programable\modelsim\test_reloj.vhd|
 !i113 1
 R13
 R14
 Atest
+R68
+R62
 R56
 R51
-R46
-R41
 R1
 R2
 R3
@@ -445,11 +445,11 @@ Vk^z7e:=zzH>jM[lF@W9Q21
 !s100 e5I8^YBJ:F5?LNCl5_kTd1
 R8
 32
-R9
+R27
 !i10b 1
-R10
-R59
-R60
+R28
+R72
+R73
 !i113 1
 R13
 R14

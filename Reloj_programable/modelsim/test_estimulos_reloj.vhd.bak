@@ -120,7 +120,7 @@ entrar_modo_prog(pulso_largo,cmd_tecla,clk,10);
     for i in 1 to 9 loop
        wait until clk'event and clk = '1';
     end loop;
-	programar_hora_inc_largo(pulso_largo,ena_cmd,cmd_tecla,horas,minutos,AM_PM,clk,'0',X"11"&X"50");
+	programar_hora_inc_corto(pulso_largo,ena_cmd,cmd_tecla,horas,minutos,AM_PM,clk,'0',X"11"&X"50");
 	wait until clk'event and clk = '1';
 	wait until clk'event and clk = '1';
 	fin_prog(ena_cmd,cmd_tecla,clk);

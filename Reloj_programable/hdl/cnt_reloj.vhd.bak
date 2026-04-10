@@ -35,7 +35,7 @@ begin
   U1: entity work.cnt_min(rtl)
       port map(clk => clk,
                nRst => nRst,
-               ena => fdc_seg,
+               ena => fdc_seg and ena_reloj,
                inc_campo => inc_campo(0),
                load => load(0),
                dato_in => dato_in,
