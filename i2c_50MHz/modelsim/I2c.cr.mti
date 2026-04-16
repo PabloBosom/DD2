@@ -1,0 +1,245 @@
+C:/Universidad/DD2_2026/i2c_50MHz/modelsim/secuenciador_interfaz_i2c.vhd {1 {vcom -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/modelsim/secuenciador_interfaz_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 10:48:00 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/modelsim/secuenciador_interfaz_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package pack_agente_slave_i2c
+-- Compiling entity secuenciador_interfaz_i2c
+-- Compiling architecture sim of secuenciador_interfaz_i2c
+End time: 10:48:00 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Universidad/DD2_2026/i2c_50MHz/modelsim/monitor_slave_i2c.vhd {1 {vcom -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/modelsim/monitor_slave_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 10:48:00 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/modelsim/monitor_slave_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package pack_agente_slave_i2c
+-- Compiling entity monitor_slave_i2c
+-- Compiling architecture sim of monitor_slave_i2c
+End time: 10:48:00 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Universidad/DD2_2026/i2c_50MHz/modelsim/interfaz_i2c.vhd {1 {vcom -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/modelsim/interfaz_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 10:48:00 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/modelsim/interfaz_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity interfaz_i2c
+-- Compiling architecture estructural of interfaz_i2c
+-- Loading entity gen_SCL_50M
+-- Loading entity ctrl_i2c
+-- Loading entity reg_out_SDA
+-- Loading entity filtro_SDA_50M
+-- Loading entity reg_in_SDA
+End time: 10:48:00 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Universidad/DD2_2026/i2c_50MHz/hdl/reg_in_SDA.vhd {1 {vcom -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/hdl/reg_in_SDA.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 10:48:01 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/hdl/reg_in_SDA.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity reg_in_SDA
+-- Compiling architecture rtl of reg_in_SDA
+End time: 10:48:01 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Universidad/DD2_2026/i2c_50MHz/modelsim/pack_agente_slave_i2c.vhd {1 {vcom -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/modelsim/pack_agente_slave_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 10:48:00 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/modelsim/pack_agente_slave_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package pack_agente_slave_i2c
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling package body pack_agente_slave_i2c
+-- Loading package pack_agente_slave_i2c
+End time: 10:48:00 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Universidad/DD2_2026/i2c_50MHz/modelsim/responder_slave_i2c.vhd {1 {vcom -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/modelsim/responder_slave_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 10:48:00 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/modelsim/responder_slave_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package pack_agente_slave_i2c
+-- Compiling entity responder_slave_i2c
+-- Compiling architecture sim of responder_slave_i2c
+End time: 10:48:00 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Universidad/DD2_2026/i2c_50MHz/modelsim/colector_slave_i2c.vhd {1 {vcom -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/modelsim/colector_slave_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 10:48:00 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/modelsim/colector_slave_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package pack_agente_slave_i2c
+-- Compiling entity colector_slave_i2c
+-- Compiling architecture sim of colector_slave_i2c
+End time: 10:48:00 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Universidad/DD2_2026/i2c_50MHz/modelsim/sequencer_slave_i2c.vhd {1 {vcom -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/modelsim/sequencer_slave_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 10:48:00 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/modelsim/sequencer_slave_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package pack_agente_slave_i2c
+-- Compiling entity sequencer_slave_i2c
+-- Compiling architecture sim of sequencer_slave_i2c
+End time: 10:48:00 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Universidad/DD2_2026/i2c_50MHz/modelsim/agente_slave_i2c.vhd {1 {vcom -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/modelsim/agente_slave_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 10:48:00 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/modelsim/agente_slave_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package pack_agente_slave_i2c
+-- Compiling entity agente_slave_i2c
+-- Compiling architecture sim_struct of agente_slave_i2c
+-- Loading entity responder_slave_i2c
+-- Loading entity colector_slave_i2c
+-- Loading entity monitor_slave_i2c
+-- Loading entity sequencer_slave_i2c
+End time: 10:48:00 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Universidad/DD2_2026/i2c_50MHz/hdl/control_i2c.vhd {1 {vcom -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/hdl/control_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 10:48:00 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/hdl/control_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity ctrl_i2c
+-- Compiling architecture rtl of ctrl_i2c
+End time: 10:48:00 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Universidad/DD2_2026/i2c_50MHz/hdl/filtro_SDA_50M.vhd {1 {vcom -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/hdl/filtro_SDA_50M.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 10:48:00 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/hdl/filtro_SDA_50M.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity filtro_SDA_50M
+-- Compiling architecture rtl of filtro_SDA_50M
+End time: 10:48:01 on Apr 16,2026, Elapsed time: 0:00:01
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Universidad/DD2_2026/i2c_50MHz/modelsim/monitor_bus_i2c.vhd {1 {vcom -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/modelsim/monitor_bus_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 10:48:00 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/modelsim/monitor_bus_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity monitor_bus_i2c
+-- Compiling architecture sim of monitor_bus_i2c
+End time: 10:48:00 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Universidad/DD2_2026/i2c_50MHz/modelsim/test_basico_interfaz_i2c.vhd {1 {vcom -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/modelsim/test_basico_interfaz_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 10:48:00 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/modelsim/test_basico_interfaz_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package pack_agente_slave_i2c
+-- Compiling entity test_basico_interfaz_i2c
+-- Compiling architecture test of test_basico_interfaz_i2c
+-- Loading entity interfaz_i2c
+-- Loading entity driver_clk_nRst
+-- Loading entity secuenciador_interfaz_i2c
+-- Loading entity monitor_bus_i2c
+-- Loading entity agente_slave_i2c
+End time: 10:48:00 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Universidad/DD2_2026/i2c_50MHz/hdl/gen_SCL_50M.vhd {1 {vcom -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/hdl/gen_SCL_50M.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 10:48:01 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/hdl/gen_SCL_50M.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity gen_SCL_50M
+-- Compiling architecture rtl of gen_SCL_50M
+End time: 10:48:01 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Universidad/DD2_2026/i2c_50MHz/hdl/reg_out_SDA.vhd {1 {vcom -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/hdl/reg_out_SDA.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 10:48:01 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/hdl/reg_out_SDA.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity reg_out_SDA
+-- Compiling architecture rtl of reg_out_SDA
+End time: 10:48:01 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Universidad/DD2_2026/i2c_50MHz/modelsim/driver_clk_nRst.vhd {1 {vcom -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/modelsim/driver_clk_nRst.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 10:48:00 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit C:/Universidad/DD2_2026/i2c_50MHz/modelsim/driver_clk_nRst.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity driver_clk_nRst
+-- Compiling architecture sim of driver_clk_nRst
+End time: 10:48:00 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}}
