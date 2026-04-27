@@ -1,0 +1,17 @@
+# Compile of teclado.vhd failed.
+# Compile of clk_div.vhd failed.
+# Compile of rebotes.vhd failed.
+# Compile of interfaz_teclado.vhd failed.
+# Compile of estimulos.vhd failed.
+# Compile of monitor.vhd failed.
+# Compile of pack_test_teclado.vhd failed.
+# Compile of test_ctrl_tec.vhd failed.
+# Compile of estimulos.vhd was successful.
+# Compile of interfaz_teclado.vhd was successful.
+# Compile of monitor.vhd was successful.
+# Compile of pack_test_teclado.vhd was successful.
+# Compile of teclado.vhd was successful.
+# Compile of clk_div.vhd was successful.
+# Compile of ctrl_tec.vhd was successful.
+# Compile of rebotes.vhd was successful.
+# Compile of test_ctrl_tec.vhd failed.

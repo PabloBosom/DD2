@@ -1,0 +1,30 @@
+C:/Universidad/DD2_2026/BT2/modelsim/tb_controlador_principal.vhd {1 {vcom -work work -2002 -explicit {C:\Universidad\DD2_2026\BT2\modelsim\tb_controlador_principal.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 22:08:32 on Apr 27,2026
+vcom -reportprogress 300 -work work -2002 -explicit C:\Universidad\DD2_2026\BT2\modelsim\tb_controlador_principal.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_controlador_principal
+-- Compiling architecture testbench of tb_controlador_principal
+End time: 22:08:32 on Apr 27,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Universidad/DD2_2026/BT2/modelsim/Controlador_principal.vhd {1 {vcom -work work -2002 -explicit {C:\Universidad\DD2_2026\BT2\modelsim\Controlador_principal.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 22:08:32 on Apr 27,2026
+vcom -reportprogress 300 -work work -2002 -explicit C:\Universidad\DD2_2026\BT2\modelsim\Controlador_principal.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity controlador_principal
+-- Compiling architecture rtl of controlador_principal
+End time: 22:08:32 on Apr 27,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}}

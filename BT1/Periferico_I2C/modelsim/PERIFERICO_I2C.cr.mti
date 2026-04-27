@@ -1,0 +1,477 @@
+D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/test_periferico_i2c.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/test_periferico_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:40:00 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/test_periferico_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package MATH_REAL
+-- Loading package pack_random_functions
+-- Loading package pack_agente_slave_i2c
+-- Loading package pack_agente_ibr_perif_i2c
+-- Compiling entity test_periferico_i2c
+-- Compiling architecture test of test_periferico_i2c
+-- Loading entity periferico_i2c
+-- Loading entity driver_clk_nRst
+-- Loading entity agente_ibr_perif_i2c
+-- Loading entity agente_slave_i2c
+-- Loading entity scoreboard_perif_i2c
+-- Loading entity monitor_bus_i2c
+End time: 12:40:00 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/control_i2c.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/control_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:39:59 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/control_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity ctrl_i2c
+-- Compiling architecture rtl of ctrl_i2c
+End time: 12:39:59 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/RAM_DP_256x8.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/RAM_DP_256x8.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:39:59 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/RAM_DP_256x8.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package altera_mf_components
+-- Compiling entity RAM_dp_256x8
+-- Compiling architecture SYN of ram_dp_256x8
+End time: 12:39:59 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/monitor_bus_i2c.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/monitor_bus_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:40:00 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/monitor_bus_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity monitor_bus_i2c
+-- Compiling architecture sim of monitor_bus_i2c
+End time: 12:40:00 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/interfaz_i2c.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/interfaz_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:39:59 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/interfaz_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity interfaz_i2c
+-- Compiling architecture estructural of interfaz_i2c
+-- Loading entity gen_SCL_100M
+-- Loading entity ctrl_i2c
+-- Loading entity reg_out_SDA
+-- Loading entity filtro_SDA_100M
+-- Loading entity reg_in_SDA
+End time: 12:39:59 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/pack_random_functions.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/pack_random_functions.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:40:00 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/pack_random_functions.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package MATH_REAL
+-- Compiling package pack_random_functions
+-- Compiling package body pack_random_functions
+-- Loading package pack_random_functions
+End time: 12:40:00 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/interfaz_periferico.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/interfaz_periferico.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:39:59 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/interfaz_periferico.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity interfaz_periferico
+-- Compiling architecture rtl of interfaz_periferico
+-- Loading entity FIFO_dp_256x8
+-- Loading entity fifo_256x8_dp
+End time: 12:39:59 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/driver_ibr_perif_i2c.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/driver_ibr_perif_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:40:00 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/driver_ibr_perif_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package MATH_REAL
+-- Loading package pack_random_functions
+-- Loading package pack_agente_ibr_perif_i2c
+-- Compiling entity driver_ibr_perif_i2c
+-- Compiling architecture sim of driver_ibr_perif_i2c
+End time: 12:40:00 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/reg_out_SDA.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/reg_out_SDA.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:39:59 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/reg_out_SDA.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity reg_out_SDA
+-- Compiling architecture rtl of reg_out_SDA
+End time: 12:39:59 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/filtro_SDA_100M.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/filtro_SDA_100M.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:39:59 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/filtro_SDA_100M.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity filtro_SDA_100M
+-- Compiling architecture rtl of filtro_SDA_100M
+End time: 12:39:59 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/driver_clk_nRst.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/driver_clk_nRst.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:40:00 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/driver_clk_nRst.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity driver_clk_nRst
+-- Compiling architecture sim of driver_clk_nRst
+End time: 12:40:00 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/scoreboard_perif_i2c.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/scoreboard_perif_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:40:00 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/scoreboard_perif_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package MATH_REAL
+-- Loading package pack_random_functions
+-- Loading package pack_agente_ibr_perif_i2c
+-- Loading package pack_agente_slave_i2c
+-- Compiling entity scoreboard_perif_i2c
+-- Compiling architecture sim of scoreboard_perif_i2c
+End time: 12:40:00 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/pack_seq_slave_i2c.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/pack_seq_slave_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:40:00 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/pack_seq_slave_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package MATH_REAL
+-- Loading package pack_random_functions
+-- Loading package pack_agente_slave_i2c
+-- Compiling package pack_seq_slave_i2c
+-- Compiling package body pack_seq_slave_i2c
+-- Loading package pack_seq_slave_i2c
+End time: 12:40:00 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/monitor_ibr_perif_i2c.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/monitor_ibr_perif_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:40:00 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/monitor_ibr_perif_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package MATH_REAL
+-- Loading package pack_random_functions
+-- Loading package pack_agente_ibr_perif_i2c
+-- Compiling entity monitor_ibr_perif_i2c
+-- Compiling architecture sim of monitor_ibr_perif_i2c
+End time: 12:40:00 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/gen_SCL_100M.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/gen_SCL_100M.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:39:59 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/gen_SCL_100M.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity gen_SCL_100M
+-- Compiling architecture rtl of gen_SCL_100M
+End time: 12:39:59 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/seq_ibr_perif_i2c.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/seq_ibr_perif_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:40:00 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/seq_ibr_perif_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package MATH_REAL
+-- Loading package pack_random_functions
+-- Loading package pack_agente_ibr_perif_i2c
+-- Compiling entity seq_ibr_perif_i2c
+-- Compiling architecture sim of seq_ibr_perif_i2c
+End time: 12:40:00 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/monitor_slave_i2c.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/monitor_slave_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:40:00 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/monitor_slave_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package MATH_REAL
+-- Loading package pack_random_functions
+-- Loading package pack_agente_slave_i2c
+-- Compiling entity monitor_slave_i2c
+-- Compiling architecture sim of monitor_slave_i2c
+End time: 12:40:00 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/pack_agente_ibr_perif_i2c.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/pack_agente_ibr_perif_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:40:00 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/pack_agente_ibr_perif_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package MATH_REAL
+-- Loading package pack_random_functions
+-- Compiling package pack_agente_ibr_perif_i2c
+End time: 12:40:00 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/responder_slave_i2c.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/responder_slave_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:40:00 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/responder_slave_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package MATH_REAL
+-- Loading package pack_random_functions
+-- Loading package pack_agente_slave_i2c
+-- Compiling entity responder_slave_i2c
+-- Compiling architecture sim of responder_slave_i2c
+End time: 12:40:00 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/pack_agente_slave_i2c.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/pack_agente_slave_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:40:00 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/pack_agente_slave_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package MATH_REAL
+-- Loading package pack_random_functions
+-- Compiling package pack_agente_slave_i2c
+-- Compiling package body pack_agente_slave_i2c
+-- Loading package pack_agente_slave_i2c
+End time: 12:40:00 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/colector_ibr_perif_i2c.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/colector_ibr_perif_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:39:59 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/colector_ibr_perif_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package MATH_REAL
+-- Loading package pack_random_functions
+-- Loading package pack_agente_ibr_perif_i2c
+-- Compiling entity colector_ibr_perif_i2c
+-- Compiling architecture sim of colector_ibr_perif_i2c
+End time: 12:39:59 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/reg_in_SDA.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/reg_in_SDA.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:39:59 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/reg_in_SDA.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity reg_in_SDA
+-- Compiling architecture rtl of reg_in_SDA
+End time: 12:39:59 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/FIFO_dp_256x8.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/FIFO_dp_256x8.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:39:59 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/FIFO_dp_256x8.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FIFO_dp_256x8
+-- Compiling architecture SYN of fifo_dp_256x8
+End time: 12:39:59 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/fifo_256x8_dp.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/fifo_256x8_dp.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:39:59 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/fifo_256x8_dp.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity fifo_256x8_dp
+-- Compiling architecture rtl of fifo_256x8_dp
+-- Loading package altera_mf_components
+-- Loading entity RAM_dp_256x8
+End time: 12:39:59 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/sequencer_slave_i2c.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/sequencer_slave_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:40:00 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/sequencer_slave_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package MATH_REAL
+-- Loading package pack_random_functions
+-- Loading package pack_agente_slave_i2c
+-- Loading package pack_seq_slave_i2c
+-- Compiling entity sequencer_slave_i2c
+-- Compiling architecture sim of sequencer_slave_i2c
+End time: 12:40:00 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/colector_slave_i2c.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/colector_slave_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:39:59 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/colector_slave_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package MATH_REAL
+-- Loading package pack_random_functions
+-- Loading package pack_agente_slave_i2c
+-- Compiling entity colector_slave_i2c
+-- Compiling architecture sim of colector_slave_i2c
+End time: 12:40:00 on Apr 16,2026, Elapsed time: 0:00:01
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/agente_ibr_perif_i2c.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/agente_ibr_perif_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:39:59 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/agente_ibr_perif_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package MATH_REAL
+-- Loading package pack_random_functions
+-- Loading package pack_agente_ibr_perif_i2c
+-- Compiling entity agente_ibr_perif_i2c
+-- Compiling architecture struct_sim of agente_ibr_perif_i2c
+-- Loading entity driver_ibr_perif_i2c
+-- Loading entity colector_ibr_perif_i2c
+-- Loading entity monitor_ibr_perif_i2c
+-- Loading entity seq_ibr_perif_i2c
+End time: 12:39:59 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/agente_slave_i2c.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/agente_slave_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:39:59 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/agente_slave_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package MATH_REAL
+-- Loading package pack_random_functions
+-- Loading package pack_agente_slave_i2c
+-- Compiling entity agente_slave_i2c
+-- Compiling architecture sim_struct of agente_slave_i2c
+-- Loading entity responder_slave_i2c
+-- Loading entity colector_slave_i2c
+-- Loading entity monitor_slave_i2c
+-- Loading package pack_seq_slave_i2c
+-- Loading entity sequencer_slave_i2c
+End time: 12:39:59 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/periferico_i2c.vhd {1 {vcom -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/periferico_i2c.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 12:39:59 on Apr 16,2026
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/periferico_i2c.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity periferico_i2c
+-- Compiling architecture estructural of periferico_i2c
+-- Loading entity interfaz_periferico
+-- Loading entity interfaz_i2c
+End time: 12:39:59 on Apr 16,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}}

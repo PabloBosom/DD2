@@ -1,0 +1,1348 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Universidad/DD2_2026/i2c_100MHz/modelsim
+Eagente_ibr_perif_i2c
+Z0 w1776330711
+Z1 DPx4 ieee 9 math_real 0 22 Sk6CSihbPL<f[^Shm]=KX0
+Z2 DPx4 work 21 pack_random_functions 0 22 [0gMc4@J]WNkGWoZM875N0
+Z3 DPx4 work 25 pack_agente_ibr_perif_i2c 0 22 hFY00lKK40]X28WoMQjHn3
+Z4 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z5 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z6 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z8 dD:/UNI/3/DD2_2026/BT1/MEDTH/modelsim
+Z9 8D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/agente_ibr_perif_i2c.vhd
+Z10 FD:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/agente_ibr_perif_i2c.vhd
+l0
+L12
+VAAeSojagFUK8K=]<cGKN?2
+!s100 @8NVQE7_mgMaIMlIU^VZ<3
+Z11 OV;C;10.4d;61
+32
+Z12 !s110 1776335999
+!i10b 1
+Z13 !s108 1776335999.000000
+Z14 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/agente_ibr_perif_i2c.vhd|
+Z15 !s107 D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/agente_ibr_perif_i2c.vhd|
+!i113 1
+Z16 o-work work -2002 -explicit
+Z17 tExplicit 1
+Astruct_sim
+Z18 DEx4 work 17 seq_ibr_perif_i2c 0 22 ebTmzIQYdjbTOdkPi<B?51
+Z19 DEx4 work 21 monitor_ibr_perif_i2c 0 22 BgOUHA5Tz>[mb6>S;6GGa3
+Z20 DEx4 work 22 colector_ibr_perif_i2c 0 22 HiS4ke`E;NTb_b`J[V?3J1
+Z21 DEx4 work 20 driver_ibr_perif_i2c 0 22 G=k^fAGzWlE<IbFLd@oKc3
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+Z22 DEx4 work 20 agente_ibr_perif_i2c 0 22 AAeSojagFUK8K=]<cGKN?2
+l42
+L34
+V_Pk<7JNoY;SP74bR1TBH]1
+!s100 z[d<47PT?md_5WnjP1A`[2
+R11
+32
+R12
+!i10b 1
+R13
+R14
+R15
+!i113 1
+R16
+R17
+Eagente_slave_i2c
+R0
+R1
+R2
+Z23 DPx4 work 21 pack_agente_slave_i2c 0 22 3fP5RbjY1?z;<3JHKmo::3
+R4
+R5
+R6
+R7
+R8
+Z24 8D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/agente_slave_i2c.vhd
+Z25 FD:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/agente_slave_i2c.vhd
+l0
+L11
+Vjn^3aSY0A8HD`Uje5RBP?0
+!s100 =4b7FJbj[YPUeGfT_nY3m1
+R11
+32
+R12
+!i10b 1
+R13
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/agente_slave_i2c.vhd|
+Z27 !s107 D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/agente_slave_i2c.vhd|
+!i113 1
+R16
+R17
+Asim_struct
+Z28 DPx4 work 18 pack_seq_slave_i2c 0 22 15]Xlm7mQ8>V0MV^Ul9lQ3
+Z29 DEx4 work 19 sequencer_slave_i2c 0 22 ej:DjLO5DV[HAd[nE<h7<2
+Z30 DEx4 work 17 monitor_slave_i2c 0 22 ?]X@Sgo[QicRV^1F83?f83
+Z31 DEx4 work 18 colector_slave_i2c 0 22 1haYeohBAgMGT?IeT[]cY1
+Z32 DEx4 work 19 responder_slave_i2c 0 22 k?liIK5KYNe=BWn1ZBlKC2
+R1
+R2
+R23
+R4
+R5
+R6
+R7
+Z33 DEx4 work 16 agente_slave_i2c 0 22 jn^3aSY0A8HD`Uje5RBP?0
+l32
+L22
+V?_bB@gbzB_e^RjYPh`Of90
+!s100 V`cKN71m;o4YkA@;1Y=dP3
+R11
+32
+R12
+!i10b 1
+R13
+R26
+R27
+!i113 1
+R16
+R17
+Ecolector_ibr_perif_i2c
+R0
+R1
+R2
+R4
+R5
+R3
+R6
+R7
+R8
+Z34 8D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/colector_ibr_perif_i2c.vhd
+Z35 FD:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/colector_ibr_perif_i2c.vhd
+l0
+L11
+VHiS4ke`E;NTb_b`J[V?3J1
+!s100 2R9eZZ5kEEi2LM]5K5QMd3
+R11
+32
+R12
+!i10b 1
+R13
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/colector_ibr_perif_i2c.vhd|
+Z37 !s107 D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/colector_ibr_perif_i2c.vhd|
+!i113 1
+R16
+R17
+Asim
+R1
+R2
+R4
+R5
+R3
+R6
+R7
+R20
+l29
+L28
+V<:0jDjb`8MNB]@UOSoDD62
+!s100 B86Q<b?`5ORG>L=fPjVCN3
+R11
+32
+R12
+!i10b 1
+R13
+R36
+R37
+!i113 1
+R16
+R17
+Ecolector_slave_i2c
+R0
+R1
+R2
+R23
+R4
+R5
+R6
+R7
+R8
+Z38 8D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/colector_slave_i2c.vhd
+Z39 FD:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/colector_slave_i2c.vhd
+l0
+L35
+V1haYeohBAgMGT?IeT[]cY1
+!s100 5RX2icEjCZEF2zOim1^je2
+R11
+32
+Z40 !s110 1776336000
+!i10b 1
+R13
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/colector_slave_i2c.vhd|
+Z42 !s107 D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/colector_slave_i2c.vhd|
+!i113 1
+R16
+R17
+Asim
+R1
+R2
+R23
+R4
+R5
+R6
+R7
+R31
+l53
+L46
+V9gm8ZYL<Tf;224@;@1aVN0
+!s100 `>OAVT4YLBhRg[RjIXH6b2
+R11
+32
+R40
+!i10b 1
+R13
+R41
+R42
+!i113 1
+R16
+R17
+Ectrl_i2c
+Z43 w1776328329
+R4
+R5
+R6
+R7
+R8
+Z44 8D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/control_i2c.vhd
+Z45 FD:/UNI/3/DD2_2026/BT1/MEDTH/hdl/control_i2c.vhd
+l0
+L65
+V[4>EPGl_d]z44kk38C2``1
+!s100 k?jSj<7_`33DL;l9]KW`Y3
+R11
+32
+R12
+!i10b 1
+R13
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/control_i2c.vhd|
+Z47 !s107 D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/control_i2c.vhd|
+!i113 1
+R16
+R17
+Artl
+R4
+R5
+R6
+R7
+Z48 DEx4 work 8 ctrl_i2c 0 22 [4>EPGl_d]z44kk38C2``1
+l119
+L104
+VbVS5bnbQJdB:^agno?:gG0
+!s100 7[IXI84KKJ4RVJ5CkkUGN3
+R11
+32
+R12
+!i10b 1
+R13
+R46
+R47
+!i113 1
+R16
+R17
+Edriver_clk_nrst
+R0
+R6
+R7
+R8
+Z49 8D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/driver_clk_nRst.vhd
+Z50 FD:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/driver_clk_nRst.vhd
+l0
+L8
+VdgKHegBA7OTlFnYf?fdE;2
+!s100 @j]Jzm[oR>=iRjbZ==cjb3
+R11
+32
+R40
+!i10b 1
+Z51 !s108 1776336000.000000
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/driver_clk_nRst.vhd|
+Z53 !s107 D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/driver_clk_nRst.vhd|
+!i113 1
+R16
+R17
+Asim
+R6
+R7
+Z54 DEx4 work 15 driver_clk_nrst 0 22 dgKHegBA7OTlFnYf?fdE;2
+l17
+L16
+V9m]NIzjm7mj3gSk__fk1G2
+!s100 MWSl@CKm4>3WQg6z50bCB2
+R11
+32
+R40
+!i10b 1
+R51
+R52
+R53
+!i113 1
+R16
+R17
+Edriver_ibr_perif_i2c
+R0
+R1
+R2
+R4
+R5
+R3
+R6
+R7
+R8
+Z55 8D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/driver_ibr_perif_i2c.vhd
+Z56 FD:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/driver_ibr_perif_i2c.vhd
+l0
+L11
+VG=k^fAGzWlE<IbFLd@oKc3
+!s100 hi>b^ZMNUldjoH2K;c:5S3
+R11
+32
+R40
+!i10b 1
+R51
+Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/driver_ibr_perif_i2c.vhd|
+Z58 !s107 D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/driver_ibr_perif_i2c.vhd|
+!i113 1
+R16
+R17
+Asim
+R1
+R2
+R4
+R5
+R3
+R6
+R7
+R21
+l29
+L28
+V>PHDd8Tn9Sg9iBmiR?Wi81
+!s100 >;;Ih1:oHXQ>MN[6ikBCg3
+R11
+32
+R40
+!i10b 1
+R51
+R57
+R58
+!i113 1
+R16
+R17
+Efifo_256x8_dp
+R0
+R4
+R5
+R6
+R7
+R8
+Z59 8D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/fifo_256x8_dp.vhd
+Z60 FD:/UNI/3/DD2_2026/BT1/MEDTH/hdl/fifo_256x8_dp.vhd
+l0
+L11
+Vml?g8;k[ERiifWG0k4NN72
+!s100 ce>`2AUSd>fbRaEo8EAnc2
+R11
+32
+R12
+!i10b 1
+R13
+Z61 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/fifo_256x8_dp.vhd|
+Z62 !s107 D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/fifo_256x8_dp.vhd|
+!i113 1
+R16
+R17
+Artl
+Z63 DPx9 altera_mf 20 altera_mf_components 0 22 JIZVPUohD7dNa?8:C5^LG2
+Z64 DEx4 work 12 ram_dp_256x8 0 22 S]jOh2I`XMiDW3HjF`<XJ3
+R4
+R5
+R6
+R7
+Z65 DEx4 work 13 fifo_256x8_dp 0 22 ml?g8;k[ERiifWG0k4NN72
+l33
+L25
+VjP^c0Vc9J`E68md7L=BUR1
+!s100 =ETN`e3HDO;=?a1`__>D`2
+R11
+32
+R12
+!i10b 1
+R13
+R61
+R62
+!i113 1
+R16
+R17
+Efifo_dp_256x8
+R0
+R6
+R7
+R8
+Z66 8D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/FIFO_dp_256x8.vhd
+Z67 FD:/UNI/3/DD2_2026/BT1/MEDTH/hdl/FIFO_dp_256x8.vhd
+l0
+L43
+Vz:f8QI[PK5z6z:So`XdS50
+!s100 45WYU0kLGh`XO^Kh>2NL[0
+R11
+32
+R12
+!i10b 1
+R13
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/FIFO_dp_256x8.vhd|
+Z69 !s107 D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/FIFO_dp_256x8.vhd|
+!i113 1
+R16
+R17
+Asyn
+R6
+R7
+Z70 DEx4 work 13 fifo_dp_256x8 0 22 z:f8QI[PK5z6z:So`XdS50
+l96
+L60
+VKSEIEmX:WkGPndBSM8Q:U3
+!s100 FE39O_[@JSLH^zVPcQ@;;0
+R11
+32
+R12
+!i10b 1
+R13
+R68
+R69
+!i113 1
+R16
+R17
+Efiltro_sda_100m
+R43
+R4
+R5
+R6
+R7
+R8
+Z71 8D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/filtro_SDA_100M.vhd
+Z72 FD:/UNI/3/DD2_2026/BT1/MEDTH/hdl/filtro_SDA_100M.vhd
+l0
+L34
+VL4LC857b=7Y@LFSR;d9Lk0
+!s100 6M4m>`eAD3>d@L6?VbVlf2
+R11
+32
+R12
+!i10b 1
+R13
+Z73 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/filtro_SDA_100M.vhd|
+Z74 !s107 D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/filtro_SDA_100M.vhd|
+!i113 1
+R16
+R17
+Artl
+R4
+R5
+R6
+R7
+Z75 DEx4 work 15 filtro_sda_100m 0 22 L4LC857b=7Y@LFSR;d9Lk0
+l48
+L42
+V_;RVjDgPN4[1L4mIfQfRb3
+!s100 aJzWmOH<Ja_Oz@WefdmkF1
+R11
+32
+R12
+!i10b 1
+R13
+R73
+R74
+!i113 1
+R16
+R17
+Egen_scl_100m
+Z76 w1776330342
+R4
+R5
+R6
+R7
+R8
+Z77 8D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/gen_SCL_100M.vhd
+Z78 FD:/UNI/3/DD2_2026/BT1/MEDTH/hdl/gen_SCL_100M.vhd
+l0
+L72
+V03lV:H6IO1^K2MnX4W>EC0
+!s100 ZJ]fmIQ94K=iSDN>N:KGY3
+R11
+32
+R12
+!i10b 1
+R13
+Z79 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/gen_SCL_100M.vhd|
+Z80 !s107 D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/gen_SCL_100M.vhd|
+!i113 1
+R16
+R17
+Artl
+R4
+R5
+R6
+R7
+Z81 DEx4 work 12 gen_scl_100m 0 22 03lV:H6IO1^K2MnX4W>EC0
+l113
+L85
+V>Ahg=LXOTlAaeK<GX[BNW2
+!s100 Q8LYQWBUn2boHc9_7_D_73
+R11
+32
+R12
+!i10b 1
+R13
+R79
+R80
+!i113 1
+R16
+R17
+Einterfaz_i2c
+R43
+R4
+R5
+R6
+R7
+R8
+Z82 8D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/interfaz_i2c.vhd
+Z83 FD:/UNI/3/DD2_2026/BT1/MEDTH/hdl/interfaz_i2c.vhd
+l0
+L43
+V1:I;m@cEK85<YWlRmJLhH3
+!s100 EUFNJ1X8O;GoV@o57=ohO0
+R11
+32
+R12
+!i10b 1
+R13
+Z84 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/interfaz_i2c.vhd|
+Z85 !s107 D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/interfaz_i2c.vhd|
+!i113 1
+R16
+R17
+Aestructural
+Z86 DEx4 work 10 reg_in_sda 0 22 7F5Iamb<a`QJczGCGdHUj0
+R75
+Z87 DEx4 work 11 reg_out_sda 0 22 T5U`2@TX0No0V35Ao^3Y<0
+R48
+R81
+R4
+R5
+R6
+R7
+Z88 DEx4 work 12 interfaz_i2c 0 22 1:I;m@cEK85<YWlRmJLhH3
+l74
+L58
+V<:=gWCWRZl82<bQPfAEJR1
+!s100 =klgiT1`DVW`>03?fOm[73
+R11
+32
+R12
+!i10b 1
+R13
+R84
+R85
+!i113 1
+R16
+R17
+Einterfaz_periferico
+R0
+R4
+R5
+R6
+R7
+R8
+Z89 8D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/interfaz_periferico.vhd
+Z90 FD:/UNI/3/DD2_2026/BT1/MEDTH/hdl/interfaz_periferico.vhd
+l0
+L51
+V85SAl=KD9;i_h<[9k0CR01
+!s100 ^Z]UL@Jn>SlhWoiGfc>6H2
+R11
+32
+R12
+!i10b 1
+R13
+Z91 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/interfaz_periferico.vhd|
+Z92 !s107 D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/interfaz_periferico.vhd|
+!i113 1
+R16
+R17
+Artl
+R65
+R70
+R4
+R5
+R6
+R7
+Z93 DEx4 work 19 interfaz_periferico 0 22 85SAl=KD9;i_h<[9k0CR01
+l100
+L71
+VlLDRiU19W04ocRcOh3]?a0
+!s100 gQeSWeVS@0V]U6L`clIO02
+R11
+32
+R12
+!i10b 1
+R13
+R91
+R92
+!i113 1
+R16
+R17
+Emonitor_bus_i2c
+R0
+R4
+R5
+R6
+R7
+R8
+Z94 8D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/monitor_bus_i2c.vhd
+Z95 FD:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/monitor_bus_i2c.vhd
+l0
+L9
+Vk`ibg2A[YmP@ijbo<>?`P2
+!s100 E=H0E93:S2bXk`5D^nHEK1
+R11
+32
+R40
+!i10b 1
+R51
+Z96 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/monitor_bus_i2c.vhd|
+Z97 !s107 D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/monitor_bus_i2c.vhd|
+!i113 1
+R16
+R17
+Asim
+R4
+R5
+R6
+R7
+Z98 DEx4 work 15 monitor_bus_i2c 0 22 k`ibg2A[YmP@ijbo<>?`P2
+l41
+L15
+V=FUkTXzCE>Em?b7D5MI@E2
+!s100 _T7TN@YSGi3JLK6Mei?G51
+R11
+32
+R40
+!i10b 1
+R51
+R96
+R97
+!i113 1
+R16
+R17
+Emonitor_ibr_perif_i2c
+R0
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+Z99 8D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/monitor_ibr_perif_i2c.vhd
+Z100 FD:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/monitor_ibr_perif_i2c.vhd
+l0
+L12
+VBgOUHA5Tz>[mb6>S;6GGa3
+!s100 YVUoNo677E7]7N30@Q7l21
+R11
+32
+R40
+!i10b 1
+R51
+Z101 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/monitor_ibr_perif_i2c.vhd|
+Z102 !s107 D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/monitor_ibr_perif_i2c.vhd|
+!i113 1
+R16
+R17
+Asim
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R19
+l30
+L29
+VGLMh;d=c?So[]>Uf3ecUh0
+!s100 MUdFB7_j;@=n9c<ooP5YY1
+R11
+32
+R40
+!i10b 1
+R51
+R101
+R102
+!i113 1
+R16
+R17
+Emonitor_slave_i2c
+R0
+R1
+R2
+R23
+R4
+R5
+R6
+R7
+R8
+Z103 8D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/monitor_slave_i2c.vhd
+Z104 FD:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/monitor_slave_i2c.vhd
+l0
+L53
+V?]X@Sgo[QicRV^1F83?f83
+!s100 _m<6=EAF6WCUF1Az:j^3B0
+R11
+32
+R40
+!i10b 1
+R51
+Z105 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/monitor_slave_i2c.vhd|
+Z106 !s107 D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/monitor_slave_i2c.vhd|
+!i113 1
+R16
+R17
+Asim
+R1
+R2
+R23
+R4
+R5
+R6
+R7
+R30
+l69
+L68
+VLPHcEm=eDNN6JN_DYOIVk1
+!s100 ^gj9ki<i598SLlQIc]j]=3
+R11
+32
+R40
+!i10b 1
+R51
+R105
+R106
+!i113 1
+R16
+R17
+Ppack_agente_ibr_perif_i2c
+R1
+R2
+R4
+R5
+R6
+R7
+R0
+R8
+8D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/pack_agente_ibr_perif_i2c.vhd
+FD:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/pack_agente_ibr_perif_i2c.vhd
+l0
+L7
+VhFY00lKK40]X28WoMQjHn3
+!s100 ^05U3^@I]DI555F9RR[4D2
+R11
+32
+R40
+!i10b 1
+R51
+!s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/pack_agente_ibr_perif_i2c.vhd|
+!s107 D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/pack_agente_ibr_perif_i2c.vhd|
+!i113 1
+R16
+R17
+Ppack_agente_slave_i2c
+R1
+R4
+R5
+R2
+R6
+R7
+R0
+R8
+Z107 8D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/pack_agente_slave_i2c.vhd
+Z108 FD:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/pack_agente_slave_i2c.vhd
+l0
+L6
+V3fP5RbjY1?z;<3JHKmo::3
+!s100 ?JiObF9cagYYEmoiL2Mza1
+R11
+32
+b1
+R40
+!i10b 1
+R51
+Z109 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/pack_agente_slave_i2c.vhd|
+Z110 !s107 D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/pack_agente_slave_i2c.vhd|
+!i113 1
+R16
+R17
+Bbody
+R23
+R1
+R4
+R5
+R2
+R6
+R7
+l0
+L75
+V8A=5z17WTKeF8Oh5GIocY3
+!s100 ^G6[VB`n8Eh]5kc`6G@G02
+R11
+32
+R40
+!i10b 1
+R51
+R109
+R110
+!i113 1
+R16
+R17
+Ppack_random_functions
+R1
+R4
+R5
+R6
+R7
+R0
+R8
+Z111 8D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/pack_random_functions.vhd
+Z112 FD:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/pack_random_functions.vhd
+l0
+L6
+V[0gMc4@J]WNkGWoZM875N0
+!s100 VMTRP0RlDDM@:II[F>b_G0
+R11
+32
+b1
+R40
+!i10b 1
+R51
+Z113 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/pack_random_functions.vhd|
+Z114 !s107 D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/pack_random_functions.vhd|
+!i113 1
+R16
+R17
+Bbody
+R2
+R1
+R4
+R5
+R6
+R7
+l0
+L40
+Vh<9R@WGdXJ09;kk8TGF>h2
+!s100 a;KBE8iOi=SV6MlBHWCmX2
+R11
+32
+R40
+!i10b 1
+R51
+R113
+R114
+!i113 1
+R16
+R17
+Ppack_seq_slave_i2c
+R23
+R1
+R4
+R5
+R2
+R6
+R7
+R0
+R8
+Z115 8D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/pack_seq_slave_i2c.vhd
+Z116 FD:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/pack_seq_slave_i2c.vhd
+l0
+L7
+V15]Xlm7mQ8>V0MV^Ul9lQ3
+!s100 FDh0KhVf[=@oAJ3D:Whc?2
+R11
+32
+b1
+R40
+!i10b 1
+R51
+Z117 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/pack_seq_slave_i2c.vhd|
+Z118 !s107 D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/pack_seq_slave_i2c.vhd|
+!i113 1
+R16
+R17
+Bbody
+R28
+R23
+R1
+R4
+R5
+R2
+R6
+R7
+l0
+L57
+VJ7_aNUmg:RkWSf_okdf3F0
+!s100 m_MJkd2aeYXIaCIcI`^Ih0
+R11
+32
+R40
+!i10b 1
+R51
+R117
+R118
+!i113 1
+R16
+R17
+Eperiferico_i2c
+R0
+R4
+R5
+R6
+R7
+R8
+Z119 8D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/periferico_i2c.vhd
+Z120 FD:/UNI/3/DD2_2026/BT1/MEDTH/hdl/periferico_i2c.vhd
+l0
+L51
+VY]lJV@fYMoHRGFW>26=l:1
+!s100 e>zlD3=i`lWgPEJ>a;16d3
+R11
+32
+R12
+!i10b 1
+R13
+Z121 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/periferico_i2c.vhd|
+Z122 !s107 D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/periferico_i2c.vhd|
+!i113 1
+R16
+R17
+Aestructural
+R88
+R93
+R4
+R5
+R6
+R7
+Z123 DEx4 work 14 periferico_i2c 0 22 Y]lJV@fYMoHRGFW>26=l:1
+l73
+L64
+VbPGZ<mfFP34XgY2bI^5E?0
+!s100 VnFBAciVFiQjPb29@9HKE1
+R11
+32
+R12
+!i10b 1
+R13
+R121
+R122
+!i113 1
+R16
+R17
+Eram_dp_256x8
+R0
+R63
+R6
+R7
+R8
+Z124 8D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/RAM_DP_256x8.vhd
+Z125 FD:/UNI/3/DD2_2026/BT1/MEDTH/hdl/RAM_DP_256x8.vhd
+l0
+L43
+VS]jOh2I`XMiDW3HjF`<XJ3
+!s100 RbU^_4IELz84gQCa5NhJ51
+R11
+32
+R12
+!i10b 1
+R13
+Z126 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/RAM_DP_256x8.vhd|
+Z127 !s107 D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/RAM_DP_256x8.vhd|
+!i113 1
+R16
+R17
+Asyn
+R63
+R6
+R7
+R64
+l61
+L57
+V[?EnFTn5Pigm8RFGbIA903
+!s100 _jd^4UcGJE>]?TndSbjN00
+R11
+32
+R12
+!i10b 1
+R13
+R126
+R127
+!i113 1
+R16
+R17
+Ereg_in_sda
+R43
+R4
+R5
+R6
+R7
+R8
+Z128 8D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/reg_in_SDA.vhd
+Z129 FD:/UNI/3/DD2_2026/BT1/MEDTH/hdl/reg_in_SDA.vhd
+l0
+L38
+V7F5Iamb<a`QJczGCGdHUj0
+!s100 TDDH;?I`[dkk1fWO5hjIO2
+R11
+32
+R12
+!i10b 1
+R13
+Z130 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/reg_in_SDA.vhd|
+Z131 !s107 D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/reg_in_SDA.vhd|
+!i113 1
+R16
+R17
+Artl
+R4
+R5
+R6
+R7
+R86
+l51
+L48
+VDaDblD7[BGNf:7<Y`AWlG0
+!s100 Id[6<7`0=<m5FX<_0TJTH2
+R11
+32
+R12
+!i10b 1
+R13
+R130
+R131
+!i113 1
+R16
+R17
+Ereg_out_sda
+R43
+R4
+R5
+R6
+R7
+R8
+Z132 8D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/reg_out_SDA.vhd
+Z133 FD:/UNI/3/DD2_2026/BT1/MEDTH/hdl/reg_out_SDA.vhd
+l0
+L48
+VT5U`2@TX0No0V35Ao^3Y<0
+!s100 IWIKD^0XC6FjMR`ED1^m73
+R11
+32
+R12
+!i10b 1
+R13
+Z134 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/reg_out_SDA.vhd|
+Z135 !s107 D:/UNI/3/DD2_2026/BT1/MEDTH/hdl/reg_out_SDA.vhd|
+!i113 1
+R16
+R17
+Artl
+R4
+R5
+R6
+R7
+R87
+l64
+L60
+VE6lg[dIBKHVEZFl:MI]VF1
+!s100 ><E?bj_XMQB`DLTzJ2l?J1
+R11
+32
+R12
+!i10b 1
+R13
+R134
+R135
+!i113 1
+R16
+R17
+Eresponder_slave_i2c
+R0
+R1
+R2
+R23
+R4
+R5
+R6
+R7
+R8
+Z136 8D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/responder_slave_i2c.vhd
+Z137 FD:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/responder_slave_i2c.vhd
+l0
+L40
+Vk?liIK5KYNe=BWn1ZBlKC2
+!s100 RmkmgYX73MKKPKQh8_bNQ1
+R11
+32
+R40
+!i10b 1
+R51
+Z138 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/responder_slave_i2c.vhd|
+Z139 !s107 D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/responder_slave_i2c.vhd|
+!i113 1
+R16
+R17
+Asim
+R1
+R2
+R23
+R4
+R5
+R6
+R7
+R32
+l59
+L51
+VElP`ZFj::5nzG4XehKX_M2
+!s100 Y`B^G;M_gziF[Qzjn9FOC1
+R11
+32
+R40
+!i10b 1
+R51
+R138
+R139
+!i113 1
+R16
+R17
+Escoreboard_perif_i2c
+R0
+R23
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+Z140 8D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/scoreboard_perif_i2c.vhd
+Z141 FD:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/scoreboard_perif_i2c.vhd
+l0
+L13
+VH>d=j[I[:ZYoAd`1QoPSI0
+!s100 ^WBl]8SGULCcD@FVPGcG42
+R11
+32
+R40
+!i10b 1
+R51
+Z142 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/scoreboard_perif_i2c.vhd|
+Z143 !s107 D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/scoreboard_perif_i2c.vhd|
+!i113 1
+R16
+R17
+Asim
+R23
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+Z144 DEx4 work 20 scoreboard_perif_i2c 0 22 H>d=j[I[:ZYoAd`1QoPSI0
+l24
+L23
+VCoI7TR]Ac[nc<D:A3^97J3
+!s100 fdW:zCN5;;CeoH2PS6Q>m2
+R11
+32
+R40
+!i10b 1
+R51
+R142
+R143
+!i113 1
+R16
+R17
+Eseq_ibr_perif_i2c
+R0
+R3
+R1
+R2
+R4
+R5
+R6
+R7
+R8
+Z145 8D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/seq_ibr_perif_i2c.vhd
+Z146 FD:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/seq_ibr_perif_i2c.vhd
+l0
+L12
+VebTmzIQYdjbTOdkPi<B?51
+!s100 edHo:[@mekP4O2Z=D_g_?2
+R11
+32
+R40
+!i10b 1
+R51
+Z147 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/seq_ibr_perif_i2c.vhd|
+Z148 !s107 D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/seq_ibr_perif_i2c.vhd|
+!i113 1
+R16
+R17
+Asim
+R3
+R1
+R2
+R4
+R5
+R6
+R7
+R18
+l26
+L24
+V=eWaQNQWkY;7O<odX0dYI2
+!s100 4D`0RgLLLmD8XeKeRW4Al3
+R11
+32
+R40
+!i10b 1
+R51
+R147
+R148
+!i113 1
+R16
+R17
+Esequencer_slave_i2c
+R0
+R28
+R23
+R1
+R2
+R4
+R5
+R6
+R7
+R8
+Z149 8D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/sequencer_slave_i2c.vhd
+Z150 FD:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/sequencer_slave_i2c.vhd
+l0
+L32
+Vej:DjLO5DV[HAd[nE<h7<2
+!s100 Zz2KH]jKnFeXXMClP@:m02
+R11
+32
+R40
+!i10b 1
+R51
+Z151 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/sequencer_slave_i2c.vhd|
+Z152 !s107 D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/sequencer_slave_i2c.vhd|
+!i113 1
+R16
+R17
+Asim
+R28
+R23
+R1
+R2
+R4
+R5
+R6
+R7
+R29
+l46
+L45
+V`0i;<Q@E3WIzjnIQi5UiV1
+!s100 <X3_?FEB1>e8SIZ8Pe]G?2
+R11
+32
+R40
+!i10b 1
+R51
+R151
+R152
+!i113 1
+R16
+R17
+Etest_periferico_i2c
+R0
+R3
+R1
+R2
+R23
+R4
+R5
+R6
+R7
+R8
+Z153 8D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/test_periferico_i2c.vhd
+Z154 FD:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/test_periferico_i2c.vhd
+l0
+L25
+VR?@k2HXEkJfR?LKQ1E?;P3
+!s100 ^L`H0=cDUm8ggPmAl0li`0
+R11
+32
+R40
+!i10b 1
+R51
+Z155 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/test_periferico_i2c.vhd|
+Z156 !s107 D:/UNI/3/DD2_2026/BT1/MEDTH/modelsim/test_periferico_i2c.vhd|
+!i113 1
+R16
+R17
+Atest
+R98
+R144
+R33
+R22
+R54
+R123
+R3
+R1
+R2
+R23
+R4
+R5
+R6
+R7
+Z157 DEx4 work 19 test_periferico_i2c 0 22 R?@k2HXEkJfR?LKQ1E?;P3
+l52
+L28
+Z158 VAXkINZ_nT>=@R4_zoW0fG1
+Z159 !s100 NR>dACV1_TWF6L`l4j`?=1
+R11
+32
+R40
+!i10b 1
+R51
+R155
+R156
+!i113 1
+R16
+R17

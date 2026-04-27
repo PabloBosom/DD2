@@ -1,0 +1,98 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera/16.0
+Econtrolador_principal
+Z0 w1777320509
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Universidad/DD2_2026/BT2/modelsim
+Z6 8C:\Universidad\DD2_2026\BT2\modelsim\Controlador_principal.vhd
+Z7 FC:\Universidad\DD2_2026\BT2\modelsim\Controlador_principal.vhd
+l0
+L5
+VP^Sg32SSXIS?ci74?K?jf3
+!s100 8z^S5`Ubm;=ddafWbQJm@3
+Z8 OV;C;10.4d;61
+32
+Z9 !s110 1777320512
+!i10b 1
+Z10 !s108 1777320512.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Universidad\DD2_2026\BT2\modelsim\Controlador_principal.vhd|
+Z12 !s107 C:\Universidad\DD2_2026\BT2\modelsim\Controlador_principal.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 21 controlador_principal 0 22 P^Sg32SSXIS?ci74?K?jf3
+l34
+L25
+Ve:]b5eDJ>Xc0nh7mBD;Xh3
+!s100 0Sz<am90h88nhzg2C^>X^3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Etb_controlador_principal
+Z15 w1777320208
+Z16 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+R4
+R5
+Z17 8C:\Universidad\DD2_2026\BT2\modelsim\tb_controlador_principal.vhd
+Z18 FC:\Universidad\DD2_2026\BT2\modelsim\tb_controlador_principal.vhd
+l0
+L7
+VbeciOk[A8RnN03fR]59^j0
+!s100 IGzHDHKYFkAGYXjI>0b3m1
+R8
+32
+R9
+!i10b 1
+R10
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Universidad\DD2_2026\BT2\modelsim\tb_controlador_principal.vhd|
+Z20 !s107 C:\Universidad\DD2_2026\BT2\modelsim\tb_controlador_principal.vhd|
+!i113 1
+R13
+R14
+Atestbench
+R16
+R1
+R2
+R3
+R4
+Z21 DEx4 work 24 tb_controlador_principal 0 22 beciOk[A8RnN03fR]59^j0
+l48
+L10
+Z22 VLV52a@0iQZMO@4[NFXFjD2
+Z23 !s100 7T[RjFda7]ca_S:GbDmo>1
+R8
+32
+R9
+!i10b 1
+R10
+R19
+R20
+!i113 1
+R13
+R14

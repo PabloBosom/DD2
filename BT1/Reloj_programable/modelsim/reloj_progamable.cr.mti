@@ -1,0 +1,141 @@
+C:/Universidad/DD2_2026/Reloj_programable/hdl/ctrl_reloj.vhd {1 {vcom -work work -2002 -explicit {C:\Universidad\DD2_2026\Reloj_programable\hdl\ctrl_reloj.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 13:27:21 on Apr 10,2026
+vcom -reportprogress 300 -work work -2002 -explicit C:\Universidad\DD2_2026\Reloj_programable\hdl\ctrl_reloj.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity ctrl_reloj
+-- Compiling architecture rtl of ctrl_reloj
+End time: 13:27:21 on Apr 10,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Universidad/DD2_2026/Reloj_programable/hdl/reloj.vhd {1 {vcom -work work -2002 -explicit {C:\Universidad\DD2_2026\Reloj_programable\hdl\reloj.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 13:27:21 on Apr 10,2026
+vcom -reportprogress 300 -work work -2002 -explicit C:\Universidad\DD2_2026\Reloj_programable\hdl\reloj.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity reloj
+-- Compiling architecture estructural of reloj
+-- Loading entity ctrl_reloj
+-- Loading entity cnt_reloj
+End time: 13:27:21 on Apr 10,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Universidad/DD2_2026/Reloj_programable/hdl/cnt_reloj.vhd {1 {vcom -work work -2002 -explicit {C:\Universidad\DD2_2026\Reloj_programable\hdl\cnt_reloj.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 13:27:21 on Apr 10,2026
+vcom -reportprogress 300 -work work -2002 -explicit C:\Universidad\DD2_2026\Reloj_programable\hdl\cnt_reloj.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity cnt_reloj
+-- Compiling architecture estructural of cnt_reloj
+-- Loading entity cnt_seg
+-- Loading entity cnt_min
+-- Loading entity cnt_horas
+End time: 13:27:21 on Apr 10,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Universidad/DD2_2026/Reloj_programable/modelsim/test_monitor_reloj.vhd {1 {vcom -work work -2002 -explicit {C:\Universidad\DD2_2026\Reloj_programable\modelsim\test_monitor_reloj.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 13:27:21 on Apr 10,2026
+vcom -reportprogress 300 -work work -2002 -explicit C:\Universidad\DD2_2026\Reloj_programable\modelsim\test_monitor_reloj.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package pack_test_reloj
+-- Compiling entity test_monitor_reloj
+-- Compiling architecture test of test_monitor_reloj
+End time: 13:27:21 on Apr 10,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Universidad/DD2_2026/Reloj_programable/hdl/cnt_min.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Universidad/DD2_2026/Reloj_programable/hdl/cnt_min.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity cnt_min
+-- Compiling architecture rtl of cnt_min
+
+} {} {}} C:/Universidad/DD2_2026/Reloj_programable/hdl/cnt_horas.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Universidad\DD2_2026\Reloj_programable\hdl\cnt_horas.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity cnt_horas
+-- Compiling architecture rtl of cnt_horas
+
+} {} {}} C:/Universidad/DD2_2026/Reloj_programable/modelsim/test_reloj.vhd {1 {vcom -work work -2002 -explicit {C:\Universidad\DD2_2026\Reloj_programable\modelsim\test_reloj.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 13:27:21 on Apr 10,2026
+vcom -reportprogress 300 -work work -2002 -explicit C:\Universidad\DD2_2026\Reloj_programable\modelsim\test_reloj.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package pack_test_reloj
+-- Compiling entity test_reloj
+-- Compiling architecture test of test_reloj
+-- Loading entity reloj
+-- Loading entity test_estimulos_reloj
+-- Loading entity test_monitor_reloj
+End time: 13:27:21 on Apr 10,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Universidad/DD2_2026/Reloj_programable/modelsim/test_estimulos_reloj.vhd {1 {vcom -work work -2002 -explicit {C:\Universidad\DD2_2026\Reloj_programable\modelsim\test_estimulos_reloj.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 13:27:21 on Apr 10,2026
+vcom -reportprogress 300 -work work -2002 -explicit C:\Universidad\DD2_2026\Reloj_programable\modelsim\test_estimulos_reloj.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package pack_test_reloj
+-- Compiling entity test_estimulos_reloj
+-- Compiling architecture test of test_estimulos_reloj
+End time: 13:27:21 on Apr 10,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Universidad/DD2_2026/Reloj_programable/modelsim/pack_test_reloj.vhd {1 {vcom -work work -2002 -explicit {C:\Universidad\DD2_2026\Reloj_programable\modelsim\pack_test_reloj.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 13:27:21 on Apr 10,2026
+vcom -reportprogress 300 -work work -2002 -explicit C:\Universidad\DD2_2026\Reloj_programable\modelsim\pack_test_reloj.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling package pack_test_reloj
+-- Compiling package body pack_test_reloj
+-- Loading package pack_test_reloj
+End time: 13:27:21 on Apr 10,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Universidad/DD2_2026/Reloj_programable/hdl/cnt_seg.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Universidad\DD2_2026\Reloj_programable\hdl\cnt_seg.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity cnt_seg
+-- Compiling architecture rtl of cnt_seg
+
+} {} {}}
